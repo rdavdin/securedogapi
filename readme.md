@@ -1,8 +1,8 @@
-##### Some changes for security configuration
+#### Some changes for security configuration
 
 - This is an example of changing security configuration appropriately after class ```WebSecurityConfigurerAdapter``` deprecated.
 
-- Some guide written on official blog [here - Spring Security without the WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter/)
+- Some guides written on official blog [here - Spring Security without the WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter/)
 
 - I changed the files ```pom.xml``` to ```pom.xmlold```, and ```SpringSecurityConfig.java``` to ```SpringSecurityConfig.javaold```. This is convenient for comparing to the new ones.
 
